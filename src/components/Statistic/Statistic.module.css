@@ -1,0 +1,10 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.items span {
+  font-weight: 400;
+  font-size: 18px;
+}
